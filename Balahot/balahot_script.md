@@ -3,8 +3,37 @@
 
 ---
 
+## Scene Status
+
+- [ ] 1 (BLUE) Anat on the road — 1p
+- [ ] 2 (BLUE) Anat arrives at the village, spots the cave — 1p
+- [ ] 3 (BLUE) Anat finds the lair. Gil kneeling over a body — 2p
+- [ ] 4 (BLUE) Anat takes Gil on — 1p
+- [ ] 5 (BLUE) Anat and Gil arrive at the village. Bad dreams. Dead ox. Sick child — 1p
+- [ ] 6 (BLUE) First light. The plow. Sick child — 2p
+- [x] ~~7 (GOLD) Zahara as a child, sneaking to the prison for the first time — 2p~~
+- [ ] 8 (GOLD) Zahara returns. Visits over time. Nofet Dvash explains Tenders — 3p
+- [ ] 9 (BLUE) Anat and Gil leave the village. The road begins — 1p
+- [x] ~~10 (BLUE) The fire. Gil confesses. Anat deflects — 2p~~
+- [ ] 11 (GOLD) "I'll release you when I can." — 1p
+- [ ] 12 (BLUE) Bandits. Anat steps in front of danger. Goes down badly — 2p
+- [ ] 13 (GOLD) The plan taking shape — 1p
+- [ ] 14 (BLUE) Gil heals Anat. The reader sees the golden eyes — 2p
+- [ ] 15 (GOLD) The day before crowning day — 1p
+- [ ] 16 (GOLD) Crowning day. Zahara is crowned — 1p
+- [ ] 17 (GOLD) Zahara unlocks the cage. Gil walks out — 2p
+- [ ] 17a (GOLD) Gil free. Just existing. Paralysis — 1p
+- [ ] 17b (GOLD) Gil finds the older Tender. The ask — 2p
+- [ ] 17c (GOLD) Gil's grief after — 1p
+- [ ] 18 (BLUE) Anat wakes. Sees the golden eyes. The connection made — 2p
+- [ ] 19 (GOLD) Gil asks the older Tender for their sacrifice — 2p
+- [ ] 20 (GOLD) The older Tender walks into the lair — 1p
+- [ ] 21 (BLUE) The fight with no heart in it. The embrace. Anat gives up the hunt — 3p
+
+---
+
 ## Scene 7 — Zahara visits the prison for the first time
-*[GOLD — golden yellow palette]*
+*(GOLD — golden yellow palette)*
 *Zahara, age four. Nofet Dvash in true form.*
 
 ---
@@ -48,7 +77,7 @@ ZAHARA: "You are BEAUTIFUL."
 ---
 
 ## Scene 10 — The Confession
-*[BLUE palette. Firelight as the only warmth.]*
+*(BLUE palette. Firelight as the only warmth.)*
 
 ---
 

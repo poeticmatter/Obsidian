@@ -143,30 +143,30 @@ A young hunter inherits a broken legacy from a mentor they know only as myth, un
 
 ## Scene List
 
-1. [BLUE] Anat on the road to the village. Caption boxes give context. She's looking for a Balahot. — **1 page**
-2. [BLUE] Anat arrives at the village outskirts, spots the cave. — **1 page**
-3. [BLUE] Anat finds the lair. Gil kneeling over a body. — **2 pages**
-4. [BLUE] Anat takes Gil on. — **1 page**
-5. [BLUE] Anat and Gil arrive at the village. Bad dreams. Dead ox. Sick child. Wrong kind of quiet. — **1 page**
-6. [BLUE] First light. The plow. *(full page splash + one more. Sick child folds in here.)* — **2 pages**
-7. [GOLD] Zahara as a child, sneaking to the prison for the first time. She sees Nofet Dvash in true form. — **2 pages**
-8. [GOLD] Zahara returns. Visits over time. The friendship forming through stone. Nofet Dvash explains what Tenders do. World-building as exposition. — **3 pages**
-9. [BLUE] Anat and Gil leave the village. The road begins. — **1 page**
-10. [BLUE] The fire. The bedrolls. Gil confesses. Anat hears her. Deflects. Rolls over. — **2 pages**
-11. [GOLD] Young Zahara and Nofet Dvash. "I'll release you when I can." "Will you, really?" "I will." — **1 page**
-12. [BLUE] Bandits. Anat steps in front of danger for Gil without thinking. Goes down badly. — **2 pages**
-13. [GOLD] The plan taking shape. Zahara and Nofet Dvash dreaming out loud together. — **1 page**
-14. [BLUE] Gil heals Anat. The reader sees the golden eyes. Anat is still unconscious. — **2 pages**
-15. [GOLD] The day before crowning day. "You still don't believe I will do it. I will. You'll see." — **1 page**
-16. [GOLD] Crowning day. Zahara is crowned. — **1 page**
-17. [GOLD] Zahara goes to the prison. Unlocks the cage. Nofet Dvash takes human form. Gil walks out. — **2 pages**
-17a. [GOLD] Gil free, not yet on mission. Just existing. The sun. The open air. Paralysis. — **1 page**
-17b. [GOLD] Gil finds the older Tender. The ask. The conflict. The sacrifice earned. — **2 pages**
-17c. [GOLD] Gil's grief after. — **1 page**
-18. [BLUE] Anat wakes. Sees the golden eyes. The connection made. The reader already knows. — **2 pages**
-19. [GOLD] Gil asks the older Tender for their sacrifice. They agree. — **2 pages**
-20. [GOLD] The older Tender walks into the lair. Gil kneeling. Anat walks in. *(timeline confirmed)* — **1 page**
-21. [BLUE] The fight with no heart in it. The embrace. Anat gives up the hunt. — **3 pages**
+1. (BLUE) Anat on the road to the village. Caption boxes give context. She's looking for a Balahot. — **1 page**
+2. (BLUE) Anat arrives at the village outskirts, spots the cave. — **1 page**
+3. (BLUE) Anat finds the lair. Gil kneeling over a body. — **2 pages**
+4. (BLUE) Anat takes Gil on. — **1 page**
+5. (BLUE) Anat and Gil arrive at the village. Bad dreams. Dead ox. Sick child. Wrong kind of quiet. — **1 page**
+6. (BLUE) First light. The plow. *(full page splash + one more. Sick child folds in here.)* — **2 pages**
+7. (GOLD) Zahara as a child, sneaking to the prison for the first time. She sees Nofet Dvash in true form. — **2 pages**
+8. (GOLD) Zahara returns. Visits over time. The friendship forming through stone. Nofet Dvash explains what Tenders do. World-building as exposition. — **3 pages**
+9. (BLUE) Anat and Gil leave the village. The road begins. — **1 page**
+10. (BLUE) The fire. The bedrolls. Gil confesses. Anat hears her. Deflects. Rolls over. — **2 pages**
+11. (GOLD) Young Zahara and Nofet Dvash. "I'll release you when I can." "Will you, really?" "I will." — **1 page**
+12. (BLUE) Bandits. Anat steps in front of danger for Gil without thinking. Goes down badly. — **2 pages**
+13. (GOLD) The plan taking shape. Zahara and Nofet Dvash dreaming out loud together. — **1 page**
+14. (BLUE) Gil heals Anat. The reader sees the golden eyes. Anat is still unconscious. — **2 pages**
+15. (GOLD) The day before crowning day. "You still don't believe I will do it. I will. You'll see." — **1 page**
+16. (GOLD) Crowning day. Zahara is crowned. — **1 page**
+17. (GOLD) Zahara goes to the prison. Unlocks the cage. Nofet Dvash takes human form. Gil walks out. — **2 pages**
+17a. (GOLD) Gil free, not yet on mission. Just existing. The sun. The open air. Paralysis. — **1 page**
+17b. (GOLD) Gil finds the older Tender. The ask. The conflict. The sacrifice earned. — **2 pages**
+17c. (GOLD) Gil's grief after. — **1 page**
+18. (BLUE) Anat wakes. Sees the golden eyes. The connection made. The reader already knows. — **2 pages**
+19. (GOLD) Gil asks the older Tender for their sacrifice. They agree. — **2 pages**
+20. (GOLD) The older Tender walks into the lair. Gil kneeling. Anat walks in. *(timeline confirmed)* — **1 page**
+21. (BLUE) The fight with no heart in it. The embrace. Anat gives up the hunt. — **3 pages**
 
 **Total: approximately 38 pages.** Room to expand to 40 if scenes need more breathing space.
 

@@ -9,7 +9,7 @@ A hunter and their hunted are star-crossed lovers in a dynasty poised to redeem 
 ---
 
 ## Paragraph Summary
-A young hunter inherits a broken legacy from a mentor they know only as myth, unaware the mentor is a Tender who hunted their own kind out of ancient self-hatred. Tracking a Tender to its lair, the Young finds instead a stranger kneeling over a body — the Child, who killed the Tender deliberately to earn the Young's trust. The Young takes them on. A crisis binds them. The Child confesses. The Young buries it. Then something breaks the disguise, and the Young sees what the Child is. The fight that follows has no heart in it. They end up in each other's arms anyway, and the Young gives up the hunt, unable to reconcile what they were made to be with what they feel. The dynasty heals. The love does not.
+A Tender of Dreams is imprisoned for a century by a dynasty poisoned against them. A child queen sees the true nature of Tenders and frees her with a mission to right the wrongs of history, but justice cannot soothe a century of hate. The Tender, torn by guilt, asks an old Tender to sacrifice themselves for a mission she doesn't fully believe in. Placing herself in the path of the hunter that bears a mythical weapon, the Tender unwittingly falls in love. The feeling persists through rejection, and a critical moment forces the Tender to reveal herself to the one that hunts her. With the realization, the hunter filled with grief abandons her quest.
 
 ---
 

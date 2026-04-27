@@ -6,8 +6,8 @@
 ## Scene Status
 
 - [ ] 1 (BLUE) Anat on the road — 1p
-- [ ] 2 (BLUE) Anat arrives at the village, spots the cave — 1p
-- [ ] 3 (BLUE) Anat finds the lair. Gil kneeling over a body — 2p
+- [x] ~~2 (BLUE) Anat arrives at the village, spots the cave — 1p~~
+- [x] ~~3 (BLUE) Anat finds the lair. Gil kneeling over a body — 2p~~
 - [ ] 4 (BLUE) Anat takes Gil on — 1p
 - [ ] 5 (BLUE) Anat and Gil arrive at the village. Bad dreams. Dead ox. Sick child — 1p
 - [ ] 6 (BLUE) First light. The plow. Sick child — 2p
@@ -29,6 +29,60 @@
 - [ ] 19 (GOLD) Gil asks the older Tender for their sacrifice — 2p
 - [ ] 20 (GOLD) The older Tender walks into the lair — 1p
 - [ ] 21 (BLUE) The fight with no heart in it. The embrace. Anat gives up the hunt — 3p
+
+---
+
+## Scene 2 — Anat arrives at the village
+*(BLUE palette.)*
+
+---
+
+**PAGE 1**
+
+**Panel 1 — wide**
+ANAT stands right of frame on a hilltop, surveying the valley below. A village nestled in the land — a river, a bridge, a watermill, two dozen huts, fields. Quiet. Still.
+
+**Panel 2**
+Closer. At the edge of the village, facing outward — an upside down scarecrow. A warning to travellers.
+CAPTION: *Balahot always nest near the village they feed on.*
+
+**Panel 3**
+Anat's eyes find the cave entrance in the hillside across the valley.
+
+**Panel 4**
+Anat sitting on the hilltop, back against a rock, weapon across her knees. Sharpening it. Waiting for dark.
+
+**Panel 5**
+Dark. Anat approaches the cave entrance, weapon drawn.
+
+---
+
+## Scene 3 — Anat finds the lair
+*(BLUE palette.)*
+
+---
+
+**PAGE 1**
+
+**Panel 1**
+Cave opening. ANAT in frame, weapon drawn. Careful approach. Listening.
+
+**Panel 2**
+Anat turns a corner into darkness.
+
+**Panel 3 — larger**
+GIL kneeling over a body. Her expression is pained. On the floor — a creature of tentacles and feathers, wrong in every direction. Black blood, thick, spreading. Gil does not look up.
+GIL: "...will not be forgotten."
+
+**Panel 4**
+Close on Anat's face. Reading the scene. Her eyes land on Gil.
+
+**Panel 5**
+Anat's weapon hits the floor. She is already moving.
+
+**Panel 6**
+Anat crouching next to Gil. Her hand finds the gash on Gil's left hip. Gil tenses.
+ANAT: "Hold still."
 
 ---
 

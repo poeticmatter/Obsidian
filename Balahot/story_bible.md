@@ -40,8 +40,10 @@ A Tender of Dreams is imprisoned for a century by a dynasty poisoned against the
 ### The Hunter
 - The original hunter. The "vigilante" — in quotes deliberately.
 - To Anat, a myth. A legend. The closest thing she had to a parent or a teacher.
-- Unknown to Anat: the Hunter is a Tender. Ancient. Self-loathing.
-- The Hunter's agenda: born different. Where other Tenders experience tending as joy and fulfillment, the Hunter experienced it as agony. Every dream they entered cost them something. They couldn't stop, or wouldn't. So they burned the whole system down and called it righteousness. Not a villain's agenda — a wound that became a worldview.
+- Unknown to Anat: the Hunter is a Tender. Ancient. Born different.
+- The Hunter's agenda: where other Tenders tend dreams and cause flourishing, the Hunter was born needing to cause misfortune. Not self-loathing — self-preservation through deflection. They needed a villain. They manufactured misfortune near Tender hideouts, then hunted and killed the Tenders blamed for it. Every village that suffered. Every Tender that died. All of it to sustain one creature's need and hide its nature.
+- The craft passed to Anat — go to the misfortune, find the Tender, kill it — is the pattern of the Hunter's feeding. Anat has been cleaning up the Hunter's mess without knowing it.
+- The older Tender's manufactured misfortune in the opening village is an accidental echo of the Hunter's method. Gil used the Hunter's own pattern to set the trap.
 - The Hunter was coming to an end. Anat found them and was relentless — she followed, she stayed, she refused to leave. The Hunter let her. Eventually grew to like her. Never actually taught her much.
 - Anat believes she was chosen and shaped. She was not. She was a stubborn child who wore down a dying creature that didn't mind the company.
 - The Hunter is the source of the weapon — which is not special — and of whatever fragments of craft Anat carries.

@@ -1,4 +1,4 @@
-# UNTITLED — Story Bible
+# Balahot — Story Bible
 *Working document. Updated as of first brainstorm session.*
 
 ---

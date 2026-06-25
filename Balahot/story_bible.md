@@ -1,10 +1,9 @@
 # Balahot — Story Bible
-*Working document. Updated as of first brainstorm session.*
 
 ---
 
 ## One Line Pitch
-A hunter and their hunted are star-crossed lovers in a dynasty poised to redeem them, too late for their love.
+A queen releases a prisoner who disarms a hunter who fails to let go of an ancient lie.
 
 ---
 
@@ -37,29 +36,30 @@ A Tender of Dreams is imprisoned for a century by a dynasty poisoned against the
 
 ## Characters
 
-### The Hunter
+### Malkosh
 - The original hunter. The "vigilante" — in quotes deliberately.
 - To Anat, a myth. A legend. The closest thing she had to a parent or a teacher.
-- Unknown to Anat: the Hunter is a Tender. Ancient. Born different.
-- The Hunter's agenda: where other Tenders tend dreams and cause flourishing, the Hunter was born needing to cause misfortune. Not self-loathing — self-preservation through deflection. They needed a villain. They manufactured misfortune near Tender hideouts, then hunted and killed the Tenders blamed for it. Every village that suffered. Every Tender that died. All of it to sustain one creature's need and hide its nature.
-- The craft passed to Anat — go to the misfortune, find the Tender, kill it — is the pattern of the Hunter's feeding. Anat has been cleaning up the Hunter's mess without knowing it.
-- The older Tender's manufactured misfortune in the opening village is an accidental echo of the Hunter's method. Gil used the Hunter's own pattern to set the trap.
-- The Hunter was coming to an end. Anat found them and was relentless — she followed, she stayed, she refused to leave. The Hunter let her. Eventually grew to like her. Never actually taught her much.
+- Unknown to Anat: Malkosh is a Tender. Ancient. Born different.
+- The first kill was probably personal. Anger. Perhaps a sibling, or someone close. A single act that left a body and a village that assumed. Malkosh fed on what followed. And then he did it again. The system grew from the habit, and the philosophy grew from the system — he told himself humans always assume, that their need for a villain made it inevitable, that his contempt was earned. All of it is rationalization. He is lying to himself. There is shame under everything.
+- He never lied outright. He let people assume. He brought the body to the village and said nothing except what was literally true. He said "wait here, because I said so" to Anat and never explained further. The distinction between withholding and lying is his only self-defense, and he knows it.
+- The craft passed to Anat — go to the misfortune, find the Tender, kill it — is the pattern of Malkosh's feeding. Anat has been following his wake without knowing it.
+- The older Tender's manufactured misfortune in the opening village is an accidental echo of Malkosh's method. Gil used Malkosh's own pattern to set the trap.
+- Malkosh was coming to an end. Anat found him and was relentless — she followed, she stayed, she refused to leave. Malkosh let her. Eventually grew to like her. Never taught her anything deliberately.
 - Anat believes she was chosen and shaped. She was not. She was a stubborn child who wore down a dying creature that didn't mind the company.
-- The Hunter is the source of the weapon — which is not special — and of whatever fragments of craft Anat carries.
-- Anat spends the whole story trying to be worthy of someone who never told her the truth about anything.
+- Malkosh is the source of the weapon — which is not special — and of whatever fragments of craft Anat carries.
+- Anat spends the whole story trying to be worthy of someone who withheld everything, told her nothing, and let her build a myth around the silence.
 
 ### Anat
-- Inherits the hunter role before fully completing their training.
+- Observed Malkosh's work from a distance. Never witnessed a kill. Has never completed a hunt — every Tender she has tracked, she arrived after Malkosh's work was already done. The craft she carries is reverse-engineered from a pattern she never fully understood. The cave in the opening scene is the first time she has come close.
 - Cannot reliably spot Tenders in human form at the start of the story.
-- Carries the Hunter's weapon — believed by all to be the source of power. It is not.
+- Carries Malkosh's weapon — believed by all to be the source of power. It is not.
 - First person narrator.
 - Is not redeemed. The dynasty is.
-- Never overcomes their ingrained hatred of Tenders. Loves this one Tender, but only in human form. Cannot love the true form. The prejudice does not break — only the ability to act on it.
-- Gives up the hunt not out of growth or belief that Tenders deserve to live, but out of grief. Cannot kill what they love. That is not the same thing as redemption.
-- Does not believe she is desirable. The Hunter never told her she was good enough, never told her she was chosen, never actually taught her anything. Anat filled that silence with relentless effort. The hunt is the only context in which she knows how to be valued.
+- Never overcomes her ingrained hatred of Tenders. Loves this one Tender, but only in human form. Cannot love the true form. The prejudice does not break — only the ability to act on it.
+- Gives up the hunt not out of growth or belief that Tenders deserve to live, but out of grief. Cannot kill what she loves. That is not the same thing as redemption.
+- Does not believe she is desirable. Malkosh never told her she was good enough, never told her she was chosen, never taught her anything deliberately. Anat filled that silence with relentless effort. The hunt is the only context in which she knows how to be valued.
 - When Gil confesses, Anat's first instinct is disbelief. Not self-denial. Not noble sacrifice. Just the quiet certainty that Gil must be wrong. Nobody looks at her that way. She deflects to protect herself from hope, because hope feels more dangerous than rejection.
-- The hunt and the deflection are the same wound expressed twice. She is chasing the Hunter's approval and simultaneously cannot believe anyone would choose her. Both are the Hunter's legacy — inherited from someone who never told her the truth about anything.
+- The hunt and the deflection are the same wound expressed twice. She is chasing Malkosh's approval and simultaneously cannot believe anyone would choose her. Both are Malkosh's legacy — inherited from someone who withheld everything and let her build a myth around the silence.
 
 ### Nofet Dvash / Gil
 - A Tender in human form.
@@ -89,7 +89,7 @@ A Tender of Dreams is imprisoned for a century by a dynasty poisoned against the
 
 ## Plot (Chronological)
 
-1. The Hunter dies. Anat inherits the role, undertrained, before fully understanding the craft.
+1. Malkosh dies. Anat takes the weapon and the role — having observed the pattern but never witnessed a kill, and never having completed a hunt herself.
 2. Zahara releases the imprisoned Gil with a mission.
 3. An older Tender deliberately manifests bad dreams in a nearby village, drawing Anat in.
 4. Anat tracks the disturbance to a lair. Finds Gil kneeling over the older Tender's body. Gil killed them — deliberately — to earn Anat's trust.
@@ -124,10 +124,10 @@ A Tender of Dreams is imprisoned for a century by a dynasty poisoned against the
 
 ### Anat
 - Named **Anat** — after the Canaanite goddess of war and hunting. Aspirational. Named by someone who believed she would become something.
-- **Goal:** Earn the Hunter's pride posthumously. Prove the inheritance was deserved.
+- **Goal:** Earn Malkosh's pride posthumously. Prove the inheritance was deserved.
 - **Motivation:** The hunt is the only context in which she knows how to be valued. She has no self outside the role, and no belief that anyone would choose her outside of it.
 - **Conflict:** Falls in love with the thing she was made to destroy — and cannot believe the feeling is returned.
-- **Change:** Learns Tenders are not monsters. Cannot unlearn the hate anyway. Stops hunting not from growth but from grief. The wound the Hunter left — you are not enough, you are not wanted — does not heal. It just loses its only justification.
+- **Change:** Learns Tenders are not monsters. Cannot unlearn the hate anyway. Stops hunting not from growth but from grief. The wound Malkosh left — you are not enough, you are not wanted — does not heal. It just loses its only justification.
 
 ### Nofet Dvash / Gil
 - **Goal:** End the hunting. Free Tenders from persecution.
@@ -152,8 +152,9 @@ A Tender of Dreams is imprisoned for a century by a dynasty poisoned against the
 5. (BLUE) Anat and Gil arrive at the village. Bad dreams. Dead ox. Sick child. Wrong kind of quiet. — **1 page**
 6. (BLUE) First light. The plow. *(full page splash + one more. Sick child folds in here.)* — **2 pages**
 7. (GOLD) Zahara as a child, sneaking to the prison for the first time. She sees Nofet Dvash in true form. — **2 pages**
-8. (GOLD) Zahara returns. Visits over time. The friendship forming through stone. Nofet Dvash explains what Tenders do. World-building as exposition. — **3 pages**
+8. (GOLD) Zahara returns. Visits over time. The friendship forming through stone. Presence and accumulation — no exposition. — **2 pages**
 9. (BLUE) Anat and Gil leave the village. The road begins. — **1 page**
+9a. (BLUE) The road. Gil asks questions about the craft — the weapon, how Anat tracks, what a hunter learns. Anat answers without suspicion. The bond forms around her answers. — **1 page**
 10. (BLUE) The fire. The bedrolls. Gil confesses. Anat hears her. Deflects. Rolls over. — **2 pages**
 11. (GOLD) Young Zahara and Nofet Dvash. "I'll release you when I can." "Will you, really?" "I will." — **1 page**
 12. (BLUE) Bandits. Anat steps in front of danger for Gil without thinking. Goes down badly. — **2 pages**
@@ -163,21 +164,22 @@ A Tender of Dreams is imprisoned for a century by a dynasty poisoned against the
 16. (GOLD) Crowning day. Zahara is crowned. — **1 page**
 17. (GOLD) Zahara goes to the prison. Unlocks the cage. Nofet Dvash takes human form. Gil walks out. — **2 pages**
 17a. (GOLD) Gil free, not yet on mission. Just existing. The sun. The open air. Paralysis. — **1 page**
-17b. (GOLD) Gil finds the older Tender. The ask. The conflict. The sacrifice earned. — **2 pages**
+17b. (GOLD) Gil finds the older Tender. The ask. The conflict. The grief already beginning before the answer comes. The sacrifice earned. — **2 pages**
 17c. (GOLD) Gil's grief after. — **1 page**
 18. (BLUE) Anat wakes. Sees the golden eyes. The connection made. The reader already knows. — **2 pages**
-19. (GOLD) Gil asks the older Tender for their sacrifice. They agree. — **2 pages**
-20. (GOLD) The older Tender walks into the lair. Gil kneeling. Anat walks in. *(timeline confirmed)* — **1 page**
-21. (BLUE) The fight with no heart in it. The embrace. Anat gives up the hunt. — **3 pages**
+19. (GOLD) The older Tender walks into the lair. Gil kneeling. Anat walks in. *(timeline confirmed)* — **1 page**
+20. (BLUE) The fight with no heart in it. The embrace. Anat gives up the hunt. She walks away. — **3 pages**
+21. (GOLD) Nofet Dvash alone. She picks up the weapon. Holds it. Realizes it is ordinary — no different from any other sword. Understands then what Malkosh was: only a Tender can kill a Tender. Takes it to Zahara. — **1–2 pages**
 
-**Total: approximately 38 pages.** Room to expand to 40 if scenes need more breathing space.
+**Total: approximately 38–40 pages.**
 
-**Note on structure:** The reader sees the golden eyes in scene 14 while Anat is unconscious. The gold scenes then unspool the full history. Anat wakes in scene 18 and the reader experiences the revelation twice — first as discovery, then as devastation.
+**Note on structure:** The reader sees the golden eyes in scene 14 while Anat is unconscious. The gold scenes then unspool the full history. Anat wakes in scene 18 and the reader experiences the revelation twice — first as discovery, then as devastation. Scene 21 delivers both remaining reveals simultaneously: the sword is ordinary, and therefore Malkosh was a Tender.
 
 ---
 
 ## Open Questions
 
-- What exactly draws the Young to the lair in the opening scene? The older Tender deliberately manifests bad dreams in a nearby village, causing an uptick of misfortune that draws the Young in. Tenders of old only manifested good dreams — the Old convinced the world otherwise.
+- What does Anat offer Gil specifically that makes her fall in love? The mission and the love become incompatible — but what cracks Gil open first?
 - What do Tenders do that makes humans afraid of them? *(The Old reframed dream-tending as predation — but what specific fears did they seed?)*
+- What was Malkosh's first kill? Who was the Tender, and what was the nature of the disagreement?
 - Levantine mythological research for grounding.
